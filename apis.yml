@@ -1,7 +1,11 @@
 aid: celgene
-url: https://raw.githubusercontent.com/api-evangelist/celgene/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/celgene/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.celgene.com
+description: >-
+  Bristol Myers Squibb is a global biopharmaceutical company committed to discovering,
+  developing and delivering innovative medicines to patients with serious diseases.
