@@ -20,6 +20,10 @@ description: >-
   trials, study connect, and investigator-sponsored research portals.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/celgene-research
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/celgene
   - type: Website
     url: https://www.celgene.com
   - type: Parent Company
