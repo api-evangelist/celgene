@@ -21,6 +21,8 @@ description: >-
   trials, study connect, and investigator-sponsored research portals.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/celgene-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/celgene-research
   - type: LinkedIn
