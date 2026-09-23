@@ -1,7 +1,9 @@
 ---
 title: Exscientia announces new AI pharma collaboration
 url: https://www.dundee.ac.uk/stories/exscientia-announces-new-ai-pharma-collaboration
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Celgene" press release artificial intelligence'
 position: 3
 source: serpapi-google

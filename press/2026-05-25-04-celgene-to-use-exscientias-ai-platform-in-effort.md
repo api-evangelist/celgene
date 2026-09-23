@@ -1,7 +1,9 @@
 ---
 title: Celgene to use Exscientia's AI platform in effort ...
 url: https://firstwordpharma.com/story/4760717
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Celgene" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Exscientia announces multi-target, AI-driven drug ...
 url: https://www.businesswire.com/news/home/20210519005180/en/Exscientia-announces-multi-target-AI-driven-drug-discovery-collaboration-with-Bristol-Myers-Squibb
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Celgene" press release artificial intelligence'
 position: 2
 source: serpapi-google
